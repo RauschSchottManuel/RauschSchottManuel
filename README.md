@@ -1,6 +1,5 @@
-### Hi there
-
-My name is Manuel Rausch-Schott. I am a Developer from Austria.
+### Hi there,
+my name is Manuel Rausch-Schott. I am a Developer from Austria.
 
 
 ### Langues & Frameworks
