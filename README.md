@@ -1,6 +1,9 @@
 ### Hi there,
 my name is Manuel Rausch-Schott. I am a Developer from Austria.
 
+- 🏡 Upper Austria
+- 👨‍🎓 HTBLA Leonding
+
 
 ### Langues & Frameworks
 ---
