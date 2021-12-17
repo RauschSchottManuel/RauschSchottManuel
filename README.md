@@ -1,5 +1,5 @@
 ### Hi there,
-my name is Manuel Rausch-Schott. I am a Software Developer from Austria.
+my name is Manuel Rausch-Schott. I am a Software Developer from Austria. (No, we don't have Kangaroos🤣)
 
 - 🏡 Upper Austria
 - 👨‍🎓 HTBLA Leonding
