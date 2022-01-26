@@ -1,7 +1,7 @@
 ### Hi there,
 my name is Manuel Rausch-Schott. I am a Software Developer from Austria. (No, we don't have Kangaroos🤣)
 
-- 🏡 Upper Austria
+- 🏡 Upper Austria, Austria
 - 👨‍🎓 HTBLA Leonding
 
 
@@ -32,18 +32,3 @@ my name is Manuel Rausch-Schott. I am a Software Developer from Austria. (No, we
 <img align="left" alt="IntelliJ IDEA" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
-
-<!--
-**RauschSchottManuel/RauschSchottManuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
