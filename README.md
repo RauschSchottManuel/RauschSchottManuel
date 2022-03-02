@@ -7,7 +7,7 @@ First of all: No, we don't have Kangaroos🤣
 - 👨‍🎓 HTBLA Leonding
 
 
-### Languages, Framworks & Databases
+### Languages & Tools
 ---
 
 <img align="left" alt="C#" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
@@ -24,11 +24,6 @@ First of all: No, we don't have Kangaroos🤣
 <img align="left" alt="Microsoft SQLServer" width="35px" src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png" />
 <img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Apache DerbyDB" width="35px" src="https://db.apache.org/derby/logo/final_logo.png" />
-<br><br>
-
-### Tools
----
-
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/800px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="IntelliJ IDEA" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
