@@ -27,3 +27,7 @@ First of all: No, we don't have Kangaroos🤣
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/800px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="IntelliJ IDEA" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" />
+
+Stats
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RauschSchottManuel)](https://github.com/RauschSchottManuel/github-readme-stats)
