@@ -34,5 +34,3 @@ Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RauschSchottManuel&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![RauschSchottManuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RauschSchottManuel&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![RauschSchottManuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RauschSchottManuel)](https://github.com/anuraghazra/github-readme-stats)
