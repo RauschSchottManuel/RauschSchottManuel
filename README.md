@@ -5,6 +5,7 @@ First of all: No, we don't have Kangaroos🤣
 
 - 🏡 Upper Austria, Austria
 - 👨‍🎓 HTBLA Leonding
+- 💼 ITPRO - Consulting & Software GmbH
 
 
 ### Languages & Tools
@@ -12,7 +13,8 @@ First of all: No, we don't have Kangaroos🤣
 
 <img align="left" alt="C#" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
+<img align="left" alt="Kotlin"
+ width="35px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
